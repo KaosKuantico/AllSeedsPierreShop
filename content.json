@@ -1,0 +1,326 @@
+{
+   "Format": "2.1.0",
+   "Changes": 
+   [ 
+      {
+         "Action": "EditData",
+         "Target": "Data/Shops",
+         "TargetField": ["SeedShop", "Items"],
+         "Entries":
+         {
+            "Winter Seeds": 
+            {
+                "Id": "Winter_Seeds",
+                "ItemId": "(O)114",
+                "Price": 30   
+            },
+            "Powdermelon Seeds": 
+            {
+                "Id": "Powdermelon_Seeds",
+                "ItemId": "(O)PowdermelonSeeds",
+                "Price": 20   
+            },
+            "Rice Shoot Seeds": 
+            {
+                "Id": "Rice_Shoot",
+                "ItemId": "(O)273",
+                "Price": 20   
+            },
+            "Amaranth Seeds": 
+            {
+                "Id": "Amaranth_Seeds",
+                "ItemId": "(O)299",
+                "Price": 20   
+            },
+            "Grape Starter": 
+            {
+                "Id": "Grape_Starter",
+                "ItemId": "(O)301",
+                "Price": 30   
+            },
+            "Hops Starter": 
+            {
+                "Id": "Hops_Starter",
+                "ItemId": "(O)302",
+                "Price": 30   
+            },
+            "Rare Seed": 
+            {
+                "Id": "Rare_Seed",
+                "ItemId": "(O)347",
+                "Price": 200   
+            },
+            "Coffee Bean": 
+            {
+                "Id": "Coffee_Bean",
+                "ItemId": "(O)433",
+                "Price": 15  
+            },
+            "Parsnip Seeds": 
+            {
+                "Id": "Parsnip_Seeds",
+                "ItemId": "(O)472",
+                "Price": 10  
+            },
+            "Bean Starter": 
+            {
+                "Id": "Bean_Starter",
+                "ItemId": "(O)473",
+                "Price": 30  
+            },
+            "Cauliflower Seeds": 
+            {
+                "Id": "Cauliflower_Seeds",
+                "ItemId": "(O)474",
+                "Price": 40  
+            },
+            "Potato Seeds": 
+            {
+                "Id": "Potato_Seeds",
+                "ItemId": "(O)475",
+                "Price": 25  
+            },
+            "Garlic Seeds": 
+            {
+                "Id": "Garlic_Seeds",
+                "ItemId": "(O)476",
+                "Price": 20  
+            },
+            "Kale Seeds": 
+            {
+                "Id": "Kale_Seeds",
+                "ItemId": "(O)477",
+                "Price": 35  
+            },
+            "Rhubarb Seeds": 
+            {
+                "Id": "Rhubarb_Seeds",
+                "ItemId": "(O)478",
+                "Price": 50  
+            },
+            "Melon Seeds": 
+            {
+                "Id": "Melon_Seeds",
+                "ItemId": "(O)479",
+                "Price": 40  
+            },
+            "Tomato Seeds": 
+            {
+                "Id": "Tomato_Seeds",
+                "ItemId": "(O)480",
+                "Price": 25  
+            },
+            "Blueberry Seeds": 
+            {
+                "Id": "Blueberry_Seeds",
+                "ItemId": "(O)481",
+                "Price": 40 
+            },
+            "Pepper Seeds": 
+            {
+                "Id": "Pepper_Seeds",
+                "ItemId": "(O)482",
+                "Price": 20 
+            },
+            "Wheat Seeds": 
+            {
+                "Id": "Wheat_Seeds",
+                "ItemId": "(O)483",
+                "Price": 5 
+            },
+            "Radish Seeds": 
+            {
+                "Id": "Radish_Seeds",
+                "ItemId": "(O)484",
+                "Price": 20
+            },
+            "Red Cabbage Seeds": 
+            {
+                "Id": "Red_Cabbage_Seeds",
+                "ItemId": "(O)485",
+                "Price": 50
+            },
+            "Starfruit Seeds": 
+            {
+                "Id": "Starfruit_Seeds",
+                "ItemId": "(O)486",
+                "Price": 200
+            },
+            "Corn Seeds": 
+            {
+                "Id": "Corn_Seeds",
+                "ItemId": "(O)487",
+                "Price": 75
+            },
+            "Eggplant Seeds": 
+            {
+                "Id": "Eggplant_Seeds",
+                "ItemId": "(O)488",
+                "Price": 10
+            },
+            "Artichoke Seeds": 
+            {
+                "Id": "Artichoke_Seeds",
+                "ItemId": "(O)489",
+                "Price": 15
+            },
+            "Pumpkin Seeds": 
+            {
+                "Id": "Pumpkin_Seeds",
+                "ItemId": "(O)490",
+                "Price": 50
+            },
+            "Bok Choy Seeds": 
+            {
+                "Id": "Bok Choy_Seeds",
+                "ItemId": "(O)491",
+                "Price": 25
+            },
+            "Yam Seeds": 
+            {
+                "Id": "Yam_Seeds",
+                "ItemId": "(O)492",
+                "Price": 30
+            },
+            "Cranberry Seeds": 
+            {
+                "Id": "Cranberry_Seeds",
+                "ItemId": "(O)493",
+                "Price": 120
+            },
+            "Beet Seeds": 
+            {
+                "Id": "Beet_Seeds",
+                "ItemId": "(O)494",
+                "Price": 10
+            },
+            "Spring Seeds": 
+            {
+                "Id": "Spring_Seeds",
+                "ItemId": "(O)495",
+                "Price": 35
+            },
+            "Summer Seeds": 
+            {
+                "Id": "Summer_Seeds",
+                "ItemId": "(O)496",
+                "Price": 55
+            },
+            "Fall Seeds": 
+            {
+                "Id": "Fall_Seeds",
+                "ItemId": "(O)497",
+                "Price": 45
+            },
+            "Ancient Seeds": 
+            {
+                "Id": "Ancient_Seeds",
+                "ItemId": "(O)499",
+                "Price": 30
+            }, 
+            "Tulip Bulb": 
+            {
+                "Id": "Tulip_Bulb",
+                "ItemId": "(O)427",
+                "Price": 10
+            },
+            "Jazz Seeds": 
+            {
+                "Id": "Jazz_Seeds",
+                "ItemId": "(O)429",
+                "Price": 15
+            },
+            "Poppy Seeds": 
+            {
+                "Id": "Poppy_Seeds",
+                "ItemId": "(O)453",
+                "Price": 50
+            },
+            "Spangle Seeds": 
+            {
+                "Id": "Spangle_Seeds",
+                "ItemId": "(O)455",
+                "Price": 25
+            },
+            "Sunflower Seeds": 
+            {
+                "Id": "Sunflower_Seeds",
+                "ItemId": "(O)431",
+                "Price": 20
+            },
+            "Fairy Seeds": 
+            {
+                "Id": "Fairy_Seeds",
+                "ItemId": "(O)425",
+                "Price": 100
+            },
+            "Strawberry Seeds": 
+            {
+                "Id": "Strawberry_Seeds",
+                "ItemId": "(O)745",
+                "Price": 30
+            },
+            "Mixed Seeds": 
+            {
+                "Id": "Mixed_Seeds",
+                "ItemId": "(O)770",
+                "Price": 30
+            },
+            "Cactus Seeds": 
+            {
+                "Id": "Cactus_Seeds",
+                "ItemId": "(O)802",
+                "Price": 30
+            },
+            "Taro Tuber": 
+            {
+                "Id": "Taro_Tuber",
+                "ItemId": "(O)831",
+                "Price": 20
+            },
+            "Pineapple Seeds": 
+            {
+                "Id": "Pineapple_Seeds",
+                "ItemId": "(O)833",
+                "Price": 240
+            },
+            "Fiber Seeds": 
+            {
+                "Id": "Fiber_Seeds",
+                "ItemId": "(O)885",
+                "Price": 5
+            },
+            "Qi Bean": 
+            {
+                "Id": "Qi_Bean",
+                "ItemId": "(O)890",
+                "Price": 1
+            },
+            "Mixed FlowerSeeds": 
+            {
+                "Id": "MixedFlower_Seeds",
+                "ItemId": "(O)MixedFlowerSeeds",
+                "Price": 30
+            },
+            "Carrot Seeds": 
+            {
+                "Id": "Carrot_Seeds",
+                "ItemId": "(O)CarrotSeeds",
+                "Price": 15
+            },
+            "SummerSquash Seeds": 
+            {
+                "Id": "SummerSquash_Seeds",
+                "ItemId": "(O)SummerSquashSeeds",
+                "Price": 20
+            },
+            "Broccoli_Seeds": 
+            {
+                "Id": "Broccoli_Seeds",
+                "ItemId": "(O)BroccoliSeeds",
+                "Price": 40
+            }
+         }
+      }
+   ]
+}

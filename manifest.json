@@ -1,0 +1,20 @@
+{
+    "Name": "All Seeds In Pierre's Shop All Seasons",
+    "Author": "TheArticWolf",
+    "Version": "1.0.0",
+    "Description": "You can buy any seed at any time of the year. No more season restriction",
+    "UniqueID": "TheArticWolf.AllSeedsPierreShop",
+    "UpdateKeys": [ "Nexus:24531" ],
+    "ContentPackFor": 
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": 
+    [
+        {
+            "UniqueID": "Pathoschild.ContentPatcher",
+            "IsRequired": true,
+            "MinimumVersion": "2.1.0"
+        }
+    ]
+}
